@@ -8,6 +8,13 @@ I'm Raphael Castro
 - 💬 Ask me about movies and motorsport F1.
 - ⚡ Fun fact: I love games and music.
 
+- Areas de interesse
+-  Software Engineering	|  Backend, frontend, full-stack
+Cloud/DevOps            |  AWS, Azure, GCP, Kubernetes
+Data Engineering        |  Dados, pipelines, bancos
+AI/ML	                |  Machine Learning, IA generativa
+Data Science	        |  Estatística, modelos, análise
+
 Estudante de Engenharia da computacao no Centro Universitário do Estado do Pará - Cesupa . Atualmente estou em busca de novas oportunidades de aprendizado. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ##
