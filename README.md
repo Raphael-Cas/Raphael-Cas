@@ -3,8 +3,8 @@
 I'm Raphael Castro
 
 - 🔭 I’m currently working on hard skills 
-- 👾 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Amazon Hacking
+- 👾 I’m currently learning systems development in Java.
+- 👯 I’m looking to expand my knowledge and gain experience in my field.
 - 💬 Ask me about movies and motorsport F1.
 - ⚡ Fun fact: I love games and music.
 
