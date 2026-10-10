@@ -2,10 +2,10 @@
 
 I'm Raphael Castro
 
-- 🔭 I’m currently working on hard skills 
-- 👾 I’m currently learning systems development in Java.
-- 👯 I’m looking to expand my knowledge and gain experience in my field.
-- ⚡ Fun fact: I love games and music.
+-  I’m currently working on hard skills 
+-  I’m currently learning systems development in Java.
+-  I’m looking to expand my knowledge and gain experience in my field.
+-  Fun fact: I love games and music.
 
 - Areas de interesse
 -  Software Engineering	|  Backend, frontend, full-stack
