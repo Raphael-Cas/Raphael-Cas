@@ -7,14 +7,14 @@ I'm Raphael Castro
 -  I’m looking to expand my knowledge and gain experience in my field.
 -  Fun fact: I love games and music.
 
-- Areas de interesse
+- Area of ​​interest
 -  Software Engineering	|  Backend, frontend, full-stack
 Cloud/DevOps            |  AWS, Azure, GCP, Kubernetes
 Data Engineering        |  Dados, pipelines, bancos
 AI/ML	                |  Machine Learning, IA generativa
 
 
-Estudante de Ciencias da Computacao no Centro Universitário do Estado do Pará - Cesupa . Atualmente estou em busca de novas oportunidades de aprendizado. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Computer Science student at the Centro Universitário do Estado do Pará (Cesupa). I am currently seeking new learning opportunities. I am constantly updating my knowledge and looking for new challenges in the field of technology. I have a passion for learning and applying that knowledge to create innovative solutions.
 
 ##
 
